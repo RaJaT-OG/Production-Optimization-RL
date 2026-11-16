@@ -1,0 +1,17 @@
+{
+  "source": "data/raw/production_data.csv",
+  "rows": 3000,
+  "raw_columns": 20,
+  "feature_columns": 39,
+  "day_start": 1,
+  "day_end": 3000,
+  "duplicate_days_removed": 0,
+  "missing_values": 0,
+  "negative_values": 0,
+  "capacity_feasible_days": 621,
+  "capacity_infeasible_days": 2379,
+  "outputs": {
+    "clean": "data/processed/production_data_clean.csv",
+    "features": "data/processed/production_features.csv"
+  }
+}
