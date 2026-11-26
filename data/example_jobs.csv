@@ -1,0 +1,11 @@
+Job ID,Arrival Time,Burst Time,Priority
+J1,0,7,2
+J2,0,5,1
+J3,0,3,3
+J4,1,6,1
+J5,2,2,2
+J6,3,8,3
+J7,4,4,1
+J8,5,3,2
+J9,7,6,3
+J10,8,2,1
