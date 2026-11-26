@@ -17,6 +17,8 @@ alternative.
 
 **Team:** Shubham (24csu197), Rajat Yadav (24csu170), Dev Kumar (24csu356)
 
+**Live demo:** [https://optimization-rl.streamlit.app/](https://optimization-rl.streamlit.app/)
+
 ---
 
 ## The scheduling tool
