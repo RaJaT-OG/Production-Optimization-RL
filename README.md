@@ -260,6 +260,7 @@ Production-Optimization-RL/
 │
 ├── src/
 │   ├── build_processed_data.py   # Cleans raw data + builds features
+│   ├── inspect_raw_data.py       # Prints a quick summary of the raw CSV
 │   ├── test_simple_tool.py
 │   └── test_jobshop_environment.py
 │

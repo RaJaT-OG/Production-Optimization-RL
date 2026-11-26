@@ -1,0 +1,4 @@
+strategy,mean_profit,std_profit,mean_on_time_pct,mean_completed,mean_abandoned
+Greedy (earliest due date),292636.85,66279.07896091016,72.45196226012166,41.82,3.15
+Greedy (profit density),237735.35,44217.523659897975,64.95098803499032,41.87,3.1
+MaskablePPO agent,299709.7,66986.50315141509,72.68712523458434,41.99,2.98
